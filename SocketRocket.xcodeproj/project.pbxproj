@@ -574,6 +574,7 @@
 				DSTROOT = /tmp/SocketRocket.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SocketRocket/SocketRocket-Prefix.pch";
+				INSTALL_PATH = "";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(DEVELOPER_DIR)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/system\"",
@@ -814,6 +815,7 @@
 				DSTROOT = /tmp/SocketRocket.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SocketRocket/SocketRocket-Prefix.pch";
+				INSTALL_PATH = "";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(DEVELOPER_DIR)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/system\"",
@@ -832,6 +834,7 @@
 				DSTROOT = /tmp/SocketRocket.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SocketRocket/SocketRocket-Prefix.pch";
+				INSTALL_PATH = "";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(DEVELOPER_DIR)/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/system\"",
